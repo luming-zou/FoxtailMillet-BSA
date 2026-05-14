@@ -17,7 +17,7 @@ Note: This fasta index file is required for subsequent delta-index analysis and 
 + S01, bulk of reistant larvae   
 + S02, bulk of susceptible larvae   
 + S03, Wild type  
-+ S04, Sfru\_R3
++ S04, Mutant type  
 
 # Extract gt info into GT format from the vcf  
 	vcftools --vcf 01.SNP_biallele.recode.vcf \
